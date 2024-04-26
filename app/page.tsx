@@ -7,7 +7,7 @@ export default function Home() {
       <h1 className={styles.title}>ChatGPT节点</h1>
 
       <div className={styles.grid}>
-        <a href="https://chat.neugpt.workers.dev/" className={styles.card}>
+        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
           <h2>Plus &rarr;</h2>
           <p>
             Access to GPT-4
@@ -16,7 +16,7 @@ export default function Home() {
           </p>
         </a>
 
-        <a href="https://chat.neugpt.workers.dev/" className={styles.card}>
+        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
           <h2>Plus &rarr;</h2>
           <p>
             {" "}
@@ -26,7 +26,7 @@ export default function Home() {
           </p>
         </a>
 
-        <a href="https://chat.neugpt.workers.dev/" className={styles.card}>
+        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
           <h2>Team &rarr;</h2>
           <p>
             {" "}
@@ -36,7 +36,7 @@ export default function Home() {
           </p>
         </a>
 
-        <a href="https://chat.neugpt.workers.dev/" className={styles.card}>
+        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
           <h2>Team &rarr;</h2>
           <p>
             {" "}
