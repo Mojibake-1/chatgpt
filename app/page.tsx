@@ -4,7 +4,7 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <main className={styles.main}>
-      <h1 className={styles.title}>ChatGPT节点</h1>
+      <h1 className={styles.title}>ChatGPT可用账号</h1>
 
 {/*       <div className={styles.grid}>
         <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
