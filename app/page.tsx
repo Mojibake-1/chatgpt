@@ -7,6 +7,8 @@ export default function Home() {
       <h1 className={styles.title}>ChatGPT可用账号</h1>
 
 
+      <div className={styles.grid}>
+      
 
         <a href="https://neu.learnwithgpt.beauty/" className={styles.card}>
           <h2>Team1 &rarr;</h2>
