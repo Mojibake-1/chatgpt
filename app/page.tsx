@@ -26,8 +26,8 @@ export default function Home() {
           </p>
         </a>
 
-        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
-          <h2>Team &rarr;</h2>
+        <a href="https://neu.learnwithgpt.beauty/" className={styles.card}>
+          <h2>Team1 &rarr;</h2>
           <p>
             {" "}
             Access to GPT-4
@@ -36,8 +36,8 @@ export default function Home() {
           </p>
         </a>
 
-        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
-          <h2>Team &rarr;</h2>
+        <a href="https://neu2.learnwithgpt.beauty/" className={styles.card}>
+          <h2>Team2 &rarr;</h2>
           <p>
             {" "}
             Access to GPT-4
