@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <h1 className={styles.title}>ChatGPT节点</h1>
 
-      <div className={styles.grid}>
+{/*       <div className={styles.grid}>
         <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
           <h2>Plus &rarr;</h2>
           <p>
@@ -24,7 +24,7 @@ export default function Home() {
             <br />
             rate limit :40 messages /3 hours
           </p>
-        </a>
+        </a> */}
 
         <a href="https://neu.learnwithgpt.beauty/" className={styles.card}>
           <h2>Team1 &rarr;</h2>
