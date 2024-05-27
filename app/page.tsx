@@ -1,7 +1,76 @@
+"use client";
 import Image from "next/image";
 import styles from "./page.module.css";
+import { useEffect, useState } from "react";
 
 export default function Home() {
+  const [cards, setCards] = useState([]);
+
+  useEffect(() => {
+    const shuffleArray = (array) => {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+    };
+
+    const cardData = [
+      {
+        title: "内外空间关系研究",
+        url: "https://via.learnwithgpt.beauty/",
+        description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
+      },
+      {
+        title: "星际自由移动",
+        url: "https://via.learnwithgpt.beauty/",
+        description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
+      },
+      {
+        title: "偏蚀",
+        url: "https://via.learnwithgpt.beauty/",
+        description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
+      },
+      {
+        title: "万象",
+        url: "https://via.learnwithgpt.beauty/",
+        description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
+      },
+      {
+        title: "太阳流水线",
+        url: "https://via.learnwithgpt.beauty/",
+        description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
+      },
+      {
+        title: "电影宇宙",
+        url: "https://via.learnwithgpt.beauty/",
+        description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
+      },
+      {
+        title: "多样的未来主义",
+        url: "https://via.learnwithgpt.beauty/",
+        description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
+      },
+      {
+        title: "远程反射疗法",
+        url: "https://via.learnwithgpt.beauty/",
+        description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
+      },
+      {
+        title: "时空之间",
+        url: "https://neu.learnwithgpt.beauty/",
+        description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
+      },
+      {
+        title: "栉风沐雨",
+        url: "https://neu2.learnwithgpt.beauty/",
+        description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
+      },
+    ];
+
+    shuffleArray(cardData);
+    setCards(cardData);
+  }, []);
+
   return (
     <main className={styles.main}>
       <div className={styles.description}>
@@ -10,13 +79,14 @@ export default function Home() {
           <code className={styles.code}>ChatGPT</code>
         </p>
         <div>
-          <a
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
+          {/* <a
+          // href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          // target="_blank"
+          // rel="noopener noreferrer"
           >
             Supported by DAO{" "}
-          </a>
+          </a> */}
+          <a style={{ color: "#808080" }}>Supported by DAO </a>
         </div>
       </div>
 
@@ -32,104 +102,12 @@ export default function Home() {
       </div>
 
       <div className={styles.grid}>
-        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
-          <h2>内外空间关系研究</h2>
-          <p>
-            Access to GPT-4o
-            <br />
-            rate limit :80 messages /3 hours
-          </p>
-        </a>
-
-        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
-          <h2>星际自由移动</h2>
-          <p>
-            {" "}
-            Access to GPT-4o
-            <br />
-            rate limit :80 messages /3 hours
-          </p>
-        </a>
-
-        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
-          <h2>偏蚀 </h2>
-          <p>
-            {" "}
-            Access to GPT-4o
-            <br />
-            rate limit :80 messages /3 hours
-          </p>
-        </a>
-
-        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
-          <h2>万象 </h2>
-          <p>
-            {" "}
-            Access to GPT-4o
-            <br />
-            rate limit :80 messages /3 hours
-          </p>
-        </a>
-
-        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
-          <h2>太阳流水线 </h2>
-          <p>
-            {" "}
-            Access to GPT-4o
-            <br />
-            rate limit :80 messages /3 hours
-          </p>
-        </a>
-
-        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
-          <h2>电影宇宙</h2>
-          <p>
-            {" "}
-            Access to GPT-4o
-            <br />
-            rate limit :80 messages /3 hours
-          </p>
-        </a>
-
-        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
-          <h2>多样的未来主义</h2>
-          <p>
-            {" "}
-            Access to GPT-4o
-            <br />
-            rate limit :80 messages /3 hours
-          </p>
-        </a>
-
-        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
-          <h2>远程反射疗法</h2>
-          <p>
-            {" "}
-            Access to GPT-4o
-            <br />
-            rate limit :80 messages /3 hours
-          </p>
-        </a>
-
-        <a href="https://neu.learnwithgpt.beauty/" className={styles.card}>
-          <h2>时空之间</h2>
-          <p>
-            {" "}
-            Access to GPT-4o
-            <br />
-            rate limit :80 messages /3 hours
-          </p>
-        </a>
-
-        <a href="https://neu2.learnwithgpt.beauty/" className={styles.card}>
-          <h2>栉风沐雨</h2>
-          <p>
-            {" "}
-            Access to GPT-4o
-            <br />
-            rate limit :80 messages /3 hours
-          </p>
-        </a>
+        {cards.map((card, index) => (
+          <a key={index} href={card.url} className={styles.card}>
+            <h2>{card.title}</h2>
+            <p>{card.description}</p>
+          </a>
+        ))}
       </div>
     </main>
   );
