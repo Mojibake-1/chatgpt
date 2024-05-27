@@ -4,7 +4,32 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <main className={styles.main}>
-      <h1 className={styles.title}>ChatGPT可用账号</h1>
+      <div className={styles.description}>
+        <p>
+          Get started with&nbsp;
+          <code className={styles.code}>ChatGPT</code>
+        </p>
+        <div>
+          <a
+            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Supported by<code style={{ color: "#212226" }}>DAO</code>{" "}
+          </a>
+        </div>
+      </div>
+
+      <div className={styles.center}>
+        <Image
+          className={styles.logo}
+          src="/next.svg"
+          alt="Next.js Logo"
+          width={140}
+          height={140}
+          priority
+        />
+      </div>
 
       <div className={styles.grid}>
         <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
