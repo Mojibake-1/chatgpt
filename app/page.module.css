@@ -6,6 +6,11 @@
   padding: 6rem;
   min-height: 100vh;
 }
+.tip {
+  font-size: 12px;
+  color: #888; /* 可以根据需要调整颜色 */
+  margin-top: 10px; /* 根据需要调整间距 */
+}
 
 .description {
   display: inherit;
@@ -83,7 +88,7 @@
 
 .card h2 {
   font-weight: 250;
-  margin-bottom: 0.9rem;
+  margin-bottom: 0.7rem;
 }
 
 .card p {
