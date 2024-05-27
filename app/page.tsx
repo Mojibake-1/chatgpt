@@ -78,8 +78,8 @@ export default function Home() {
           <code className={styles.code}>ChatGPT</code>
         </p>
         <div></div>
-        {/* <a style={{ color: "#808080" }}>Supported by DAO </a> */}
-        <a style={{ color: "#FF0000" }}>网站维护中，预计上午十点前完全恢复 </a>
+         <a style={{ color: "#808080" }}>Supported by DAO </a> 
+       
       </div>
 
       <div className={styles.center}>
