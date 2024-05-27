@@ -51,6 +51,66 @@ export default function Home() {
           </p>
         </a>
 
+                <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
+          <h2>Plus &rarr;</h2>
+          <p>
+            {" "}
+            Access to GPT-4o
+            <br />
+            rate limit :80 messages /3 hours
+          </p>
+        </a>
+
+                <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
+          <h2>Plus &rarr;</h2>
+          <p>
+            {" "}
+            Access to GPT-4o
+            <br />
+            rate limit :80 messages /3 hours
+          </p>
+        </a>
+
+                <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
+          <h2>Plus &rarr;</h2>
+          <p>
+            {" "}
+            Access to GPT-4o
+            <br />
+            rate limit :80 messages /3 hours
+          </p>
+        </a>
+
+                <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
+          <h2>Plus &rarr;</h2>
+          <p>
+            {" "}
+            Access to GPT-4o
+            <br />
+            rate limit :80 messages /3 hours
+          </p>
+        </a>
+
+                <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
+          <h2>Plus &rarr;</h2>
+          <p>
+            {" "}
+            Access to GPT-4o
+            <br />
+            rate limit :80 messages /3 hours
+          </p>
+        </a>
+
+                <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
+          <h2>Plus &rarr;</h2>
+          <p>
+            {" "}
+            Access to GPT-4o
+            <br />
+            rate limit :80 messages /3 hours
+          </p>
+        </a>
+
         <a href="https://neu.learnwithgpt.beauty/" className={styles.card}>
           <h2>Plus &rarr;</h2>
           <p>
