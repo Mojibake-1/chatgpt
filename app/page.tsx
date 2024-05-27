@@ -35,9 +35,9 @@ export default function Home() {
         <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
           <h2>Plus &rarr;</h2>
           <p>
-            Access to GPT-4
+            Access to GPT-4o
             <br />
-            rate limit :40 messages /3 hours
+            rate limit :80 messages /3 hours
           </p>
         </a>
 
@@ -45,29 +45,29 @@ export default function Home() {
           <h2>Plus &rarr;</h2>
           <p>
             {" "}
-            Access to GPT-4
+            Access to GPT-4o
             <br />
-            rate limit :40 messages /3 hours
+            rate limit :80 messages /3 hours
           </p>
         </a>
 
         <a href="https://neu.learnwithgpt.beauty/" className={styles.card}>
-          <h2>Team1 &rarr;</h2>
+          <h2>Plus &rarr;</h2>
           <p>
             {" "}
-            Access to GPT-4
+            Access to GPT-4o
             <br />
-            rate limit :100 messages /3 hours
+            rate limit :80 messages /3 hours
           </p>
         </a>
 
         <a href="https://neu2.learnwithgpt.beauty/" className={styles.card}>
-          <h2>Team2 &rarr;</h2>
+          <h2>Plus &rarr;</h2>
           <p>
             {" "}
-            Access to GPT-4
+            Access to GPT-4o
             <br />
-            rate limit :100 messages /3 hours
+            rate limit :80 messages /3 hours
           </p>
         </a>
       </div>
