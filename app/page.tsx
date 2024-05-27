@@ -85,7 +85,8 @@ export default function Home() {
           >
             Supported by DAO{" "}
           </a> */}
-          <a style={{ color: "#808080" }}>Supported by DAO </a>
+          {/* <a style={{ color: "#808080" }}>Supported by DAO </a> */}
+        <a style={{ color: "#FF0000" }}>网站维护中，预计上午十点前恢复 </a>
         </div>
       </div>
 
