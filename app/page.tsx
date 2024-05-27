@@ -15,7 +15,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Supported by<code style={{ color: "#212226" }}>DAO</code>{" "}
+            Supported by DAO{" "}
           </a>
         </div>
       </div>
@@ -33,7 +33,7 @@ export default function Home() {
 
       <div className={styles.grid}>
         <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
-          <h2>Plus &rarr;</h2>
+          <h2>内外空间关系研究</h2>
           <p>
             Access to GPT-4o
             <br />
@@ -42,7 +42,7 @@ export default function Home() {
         </a>
 
         <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
-          <h2>Plus &rarr;</h2>
+          <h2>星际自由移动</h2>
           <p>
             {" "}
             Access to GPT-4o
@@ -51,8 +51,8 @@ export default function Home() {
           </p>
         </a>
 
-                <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
-          <h2>Plus &rarr;</h2>
+        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
+          <h2>偏蚀 </h2>
           <p>
             {" "}
             Access to GPT-4o
@@ -61,8 +61,8 @@ export default function Home() {
           </p>
         </a>
 
-                <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
-          <h2>Plus &rarr;</h2>
+        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
+          <h2>万象 </h2>
           <p>
             {" "}
             Access to GPT-4o
@@ -71,8 +71,8 @@ export default function Home() {
           </p>
         </a>
 
-                <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
-          <h2>Plus &rarr;</h2>
+        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
+          <h2>太阳流水线 </h2>
           <p>
             {" "}
             Access to GPT-4o
@@ -81,8 +81,8 @@ export default function Home() {
           </p>
         </a>
 
-                <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
-          <h2>Plus &rarr;</h2>
+        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
+          <h2>电影宇宙</h2>
           <p>
             {" "}
             Access to GPT-4o
@@ -91,8 +91,8 @@ export default function Home() {
           </p>
         </a>
 
-                <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
-          <h2>Plus &rarr;</h2>
+        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
+          <h2>多样的未来主义</h2>
           <p>
             {" "}
             Access to GPT-4o
@@ -101,8 +101,8 @@ export default function Home() {
           </p>
         </a>
 
-                <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
-          <h2>Plus &rarr;</h2>
+        <a href="https://via.learnwithgpt.beauty/" className={styles.card}>
+          <h2>远程反射疗法</h2>
           <p>
             {" "}
             Access to GPT-4o
@@ -112,7 +112,7 @@ export default function Home() {
         </a>
 
         <a href="https://neu.learnwithgpt.beauty/" className={styles.card}>
-          <h2>Plus &rarr;</h2>
+          <h2>时空之间</h2>
           <p>
             {" "}
             Access to GPT-4o
@@ -122,7 +122,7 @@ export default function Home() {
         </a>
 
         <a href="https://neu2.learnwithgpt.beauty/" className={styles.card}>
-          <h2>Plus &rarr;</h2>
+          <h2>栉风沐雨</h2>
           <p>
             {" "}
             Access to GPT-4o
