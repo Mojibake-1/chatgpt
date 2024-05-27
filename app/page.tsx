@@ -16,52 +16,52 @@ export default function Home() {
     const cardData = [
       {
         title: "内外空间关系研究",
-        url: "https://via.learnwithgpt.beauty/",
+        url: "https://neu1.learnwithgpt.beauty",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "星际自由移动",
-        url: "https://via.learnwithgpt.beauty/",
+        url: "https://neu2.learnwithgpt.beauty/",
         description: "Access to GPT-4o\nrate limit :  80 messages /3 hours",
       },
       {
         title: "偏蚀",
-        url: "https://via.learnwithgpt.beauty/",
+        url: "https://neu3.learnwithgpt.beauty/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "万象",
-        url: "https://via.learnwithgpt.beauty/",
+        url: "https://neu4.learnwithgpt.beauty/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "太阳流水线",
-        url: "https://via.learnwithgpt.beauty/",
+        url: "https://neu5.learnwithgpt.beauty/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "电影宇宙",
-        url: "https://via.learnwithgpt.beauty/",
+        url: "https://neu6.learnwithgpt.beauty/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "多样的未来主义",
-        url: "https://via.learnwithgpt.beauty/",
+        url: "https://neu7.learnwithgpt.beauty/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "远程反射疗法",
-        url: "https://via.learnwithgpt.beauty/",
+        url: "https://neu8.learnwithgpt.beauty/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "时空之间",
-        url: "https://neu.learnwithgpt.beauty/",
+        url: "https://neu9.learnwithgpt.beauty/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "栉风沐雨",
-        url: "https://neu2.learnwithgpt.beauty/",
+        url: "https://neu10.learnwithgpt.beauty/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
     ];
@@ -77,17 +77,9 @@ export default function Home() {
           Get started with&nbsp;
           <code className={styles.code}>ChatGPT</code>
         </p>
-        <div>
-          {/* <a
-          // href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          // target="_blank"
-          // rel="noopener noreferrer"
-          >
-            Supported by DAO{" "}
-          </a> */}
-          {/* <a style={{ color: "#808080" }}>Supported by DAO </a> */}
+        <div></div>
+        {/* <a style={{ color: "#808080" }}>Supported by DAO </a> */}
         <a style={{ color: "#FF0000" }}>网站维护中，预计上午十点前恢复 </a>
-        </div>
       </div>
 
       <div className={styles.center}>
