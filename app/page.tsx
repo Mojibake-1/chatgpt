@@ -4,16 +4,15 @@ import styles from "./page.module.css";
 import { useEffect, useState } from "react";
 
 export default function Home() {
-  const [cards, setCards] = useState([]);
+  const [cards, setCards] = useState<any[]>([]);
 
   useEffect(() => {
-    const shuffleArray = (array) => {
+    const shuffleArray = (array: any[]) => {
       for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [array[i], array[j]] = [array[j], array[i]];
       }
     };
-
     const cardData = [
       {
         title: "内外空间关系研究",
