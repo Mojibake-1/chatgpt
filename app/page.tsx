@@ -22,7 +22,7 @@ export default function Home() {
       {
         title: "星际自由移动",
         url: "https://via.learnwithgpt.beauty/",
-        description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
+        description: "Access to GPT-4o\nrate limit :  80 messages /3 hours",
       },
       {
         title: "偏蚀",
@@ -107,6 +107,12 @@ export default function Home() {
             <p>{card.description}</p>
           </a>
         ))}
+      </div>
+
+      <div>
+        <p className={styles.tip}>
+          温馨提示，每次页面刷新会打乱排序，请记住之前使用的账号名称
+        </p>
       </div>
     </main>
   );
