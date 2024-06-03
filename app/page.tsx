@@ -133,7 +133,7 @@ export default function Home() {
 
       <div>
         <p className={styles.tip}>
-          温馨提示，每次页面刷新会打乱排序，请记住之前使用的账号名称
+          温馨提示，每次页面刷新会打乱排序，请记住之前使用的账号名称。如果某个账号无法使用，可以换一个用
         </p>
       </div>
     </main>
