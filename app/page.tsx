@@ -108,7 +108,7 @@ export default function Home() {
           <code className={styles.code}>ChatGPT</code>
         </p>
         <div></div>
-        <a style={{ color: "#808080" }}>Supported by DAO </a>
+        <a style={{ color: "#808080" }}>下方有注意事项 </a>
       </div>
 
       <div className={styles.center}>
@@ -133,8 +133,11 @@ export default function Home() {
 
       <div>
         <p className={styles.tip}>
-          温馨提示：每次页面刷新会打乱排序，请记住之前使用的账号名称。如果某个账号无法使用，可以换一个用。显示未找到share_token，可更换国内网络。对话内容可能会受到审查，请不要问乱七八糟的问题
+          tips：每次页面刷新会打乱排序，请记住之前使用的账号名称。如果某个账号无法使用，可以换一个用。显示未找到share_token，可更换国内网络。对话内容可能会受到审查，请不要问乱七八糟的问题
         </p>
+      </div>
+      <div className={styles.center}>
+        <a style={{ color: "#808080" }}>Supported by DAO </a>
         <p className={styles.spacer}></p>
       </div>
     </main>
