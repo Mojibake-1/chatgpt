@@ -16,52 +16,61 @@ export default function Home() {
     const cardData = [
       {
         title: "内外空间关系研究",
-        url: "https://neu1.learnwithgpt.beauty",
+        url: "https://neu1.learnwithgpt.space",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "星际自由移动",
-        url: "https://neu2.learnwithgpt.beauty/",
+        url: "https://neu2.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :  80 messages /3 hours",
       },
       {
         title: "偏蚀",
-        url: "https://neu3.learnwithgpt.beauty/",
+        url: "https://neu3.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "万象",
-        url: "https://neu4.learnwithgpt.beauty/",
+        url: "https://neu4.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "太阳流水线",
-        url: "https://neu5.learnwithgpt.beauty/",
+        url: "https://neu5.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "电影宇宙",
-        url: "https://neu6.learnwithgpt.beauty/",
+        url: "https://neu6.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "多样的未来主义",
-        url: "https://neu7.learnwithgpt.beauty/",
+        url: "https://neu7.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "远程反射疗法",
-        url: "https://neu8.learnwithgpt.beauty/",
+        url: "https://neu8.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "时空之间",
-        url: "https://neu9.learnwithgpt.beauty/",
+        url: "https://neu9.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "栉风沐雨",
-        url: "https://neu10.learnwithgpt.beauty/",
+        url: "https://neu10.learnwithgpt.space/",
+        description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
+      },
+     {
+        title: "走向天空的人",
+        url: "https://neu11.learnwithgpt.space/",
+        description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
+      },
+       title: "轨道反射器",
+        url: "https://neu12.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
     ];
