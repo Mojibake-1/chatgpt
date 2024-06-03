@@ -16,53 +16,83 @@ export default function Home() {
     const cardData = [
       {
         title: "内外空间关系研究",
-        url: "https://neu1.learnwithgpt.beauty",
+        url: "https://neu1.learnwithgpt.space",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "星际自由移动",
-        url: "https://neu2.learnwithgpt.beauty/",
+        url: "https://neu2.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :  80 messages /3 hours",
       },
       {
         title: "偏蚀",
-        url: "https://neu3.learnwithgpt.beauty/",
+        url: "https://neu3.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "万象",
-        url: "https://neu4.learnwithgpt.beauty/",
+        url: "https://neu4.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "太阳流水线",
-        url: "https://neu5.learnwithgpt.beauty/",
+        url: "https://neu5.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "电影宇宙",
-        url: "https://neu6.learnwithgpt.beauty/",
+        url: "https://neu6.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "多样的未来主义",
-        url: "https://neu7.learnwithgpt.beauty/",
+        url: "https://neu7.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "远程反射疗法",
-        url: "https://neu8.learnwithgpt.beauty/",
+        url: "https://neu8.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "时空之间",
-        url: "https://neu9.learnwithgpt.beauty/",
+        url: "https://neu9.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
         title: "栉风沐雨",
-        url: "https://neu10.learnwithgpt.beauty/",
+        url: "https://neu10.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
+      },
+      {
+        title: "走向天空的人",
+        url: "https://neu11.learnwithgpt.space/",
+        description: "Access to GPT-3.5\n普通账号",
+      },
+      {
+        title: "轨道反射器",
+        url: "https://neu12.learnwithgpt.space/",
+        description: " Access to GPT-3.5\n普通账号",
+      },
+      {
+        title: "洞穴之喻",
+        url: "https://neu13.learnwithgpt.space/",
+        description: " Access to GPT-3.5\n普通账号",
+      },
+      {
+        title: "时钟总是错的",
+        url: "https://neu14.learnwithgpt.space/",
+        description: " Access to GPT-3.5\n普通账号",
+      },
+      {
+        title: "二分之一个月亮",
+        url: "https://neu15.learnwithgpt.space/",
+        description: " Access to GPT-3.5\n普通账号",
+      },
+      {
+        title: "关于无的无所有",
+        url: "https://neu16.learnwithgpt.space/",
+        description: " Access to GPT-3.5\n普通账号",
       },
     ];
 
@@ -78,8 +108,7 @@ export default function Home() {
           <code className={styles.code}>ChatGPT</code>
         </p>
         <div></div>
-         <a style={{ color: "#808080" }}>Supported by DAO </a> 
-       
+        <a style={{ color: "#808080" }}>Supported by DAO </a>
       </div>
 
       <div className={styles.center}>
@@ -104,7 +133,8 @@ export default function Home() {
 
       <div>
         <p className={styles.tip}>
-          温馨提示，每次页面刷新会打乱排序，请记住之前使用的账号名称
+          网站正在更新中
+          {/* 温馨提示，每次页面刷新会打乱排序，请记住之前使用的账号名称 */}
         </p>
       </div>
     </main>
