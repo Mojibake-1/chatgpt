@@ -67,32 +67,32 @@ export default function Home() {
       {
         title: "走向天空的人",
         url: "https://neu11.learnwithgpt.space/",
-        description: "Access to GPT-3.5\n普通账号",
+        description: "Access to GPT-3.5",
       },
       {
         title: "轨道反射器",
         url: "https://neu12.learnwithgpt.space/",
-        description: " Access to GPT-3.5\n普通账号",
+        description: " Access to GPT-3.5",
       },
       {
         title: "洞穴之喻",
         url: "https://neu13.learnwithgpt.space/",
-        description: " Access to GPT-3.5\n普通账号",
+        description: " Access to GPT-3.5",
       },
       {
         title: "时钟总是错的",
         url: "https://neu14.learnwithgpt.space/",
-        description: " Access to GPT-3.5\n普通账号",
+        description: " Access to GPT-3.5",
       },
       {
         title: "二分之一个月亮",
         url: "https://neu15.learnwithgpt.space/",
-        description: " Access to GPT-3.5\n普通账号",
+        description: " Access to GPT-3.5",
       },
       {
         title: "关于无的无所有",
         url: "https://neu16.learnwithgpt.space/",
-        description: " Access to GPT-3.5\n普通账号",
+        description: " Access to GPT-3.5",
       },
     ];
 
@@ -133,8 +133,7 @@ export default function Home() {
 
       <div>
         <p className={styles.tip}>
-          网站正在更新中
-          {/* 温馨提示，每次页面刷新会打乱排序，请记住之前使用的账号名称 */}
+          温馨提示，每次页面刷新会打乱排序，请记住之前使用的账号名称
         </p>
       </div>
     </main>
