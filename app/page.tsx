@@ -64,36 +64,36 @@ export default function Home() {
         url: "https://neu10.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
-      // {
-      //   title: "走向天空的人",
-      //   url: "https://neu11.learnwithgpt.space/",
-      //   description: "Access to GPT-3.5",
-      // },
-      // {
-      //   title: "轨道反射器",
-      //   url: "https://neu12.learnwithgpt.space/",
-      //   description: " Access to GPT-3.5",
-      // },
-      // {
-      //   title: "洞穴之喻",
-      //   url: "https://neu13.learnwithgpt.space/",
-      //   description: " Access to GPT-3.5",
-      // },
-      // {
-      //   title: "时钟总是错的",
-      //   url: "https://neu14.learnwithgpt.space/",
-      //   description: " Access to GPT-3.5",
-      // },
-      // {
-      //   title: "二分之一个月亮",
-      //   url: "https://neu15.learnwithgpt.space/",
-      //   description: " Access to GPT-3.5",
-      // },
-      // {
-      //   title: "关于无的无所有",
-      //   url: "https://neu16.learnwithgpt.space/",
-      //   description: " Access to GPT-3.5",
-      // },
+      {
+        title: "走向天空的人",
+        url: "https://neu11.learnwithgpt.space/",
+        description: "Access to GPT-3.5",
+      },
+      {
+        title: "轨道反射器",
+        url: "https://neu12.learnwithgpt.space/",
+        description: " Access to GPT-3.5",
+      },
+      {
+        title: "洞穴之喻",
+        url: "https://neu13.learnwithgpt.space/",
+        description: " Access to GPT-3.5",
+      },
+      {
+        title: "时钟总是错的",
+        url: "https://neu14.learnwithgpt.space/",
+        description: " Access to GPT-3.5",
+      },
+      {
+        title: "二分之一个月亮",
+        url: "https://neu15.learnwithgpt.space/",
+        description: " Access to GPT-3.5",
+      },
+      {
+        title: "关于无的无所有",
+        url: "https://neu16.learnwithgpt.space/",
+        description: " Access to GPT-3.5",
+      },
     ];
 
     shuffleArray(cardData);
@@ -133,7 +133,7 @@ export default function Home() {
 
       <div>
         <p className={styles.tip}>
-          温馨提示，每次页面刷新会打乱排序，请记住之前使用的账号名称。如果某个账号无法使用，可以换一个用。还有请不要问乱七八糟的问题，你的对话内容可能会受到审查
+          温馨提示：每次页面刷新会打乱排序，请记住之前使用的账号名称。如果某个账号无法使用，可以换一个用。显示未找到share_token，可更换国内网络。对话内容可能会受到审查，请不要问乱七八糟的问题
         </p>
       </div>
     </main>
