@@ -135,6 +135,7 @@ export default function Home() {
         <p className={styles.tip}>
           温馨提示：每次页面刷新会打乱排序，请记住之前使用的账号名称。如果某个账号无法使用，可以换一个用。显示未找到share_token，可更换国内网络。对话内容可能会受到审查，请不要问乱七八糟的问题
         </p>
+        <p className={styles.spacer}></p>
       </div>
     </main>
   );
