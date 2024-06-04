@@ -122,8 +122,10 @@ export default function Home() {
         />
       </div>
        <div className={styles.center}>
-<p className={styles.tip}>
-  下方有注意事项
+{/* <p className={styles.tip}> */}
+<p>
+ <a style={{ color: "#FF0000" }}>ChatGPT官网炸了，等他们修复  </a>
+{/*   下方有注意事项 */}
   </p>
   </div>
       <div className={styles.grid}>
