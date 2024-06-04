@@ -141,7 +141,11 @@ export default function Home() {
            <p className={styles.spacer}></p>
         </p>
       </div>
-      
+<div className={styles.center}>
+  <a href="https://status.openai.com/"  target="_blank" rel="noopener noreferrer">
+    status.openai.com
+  </a>
+</div>
     </main>
   );
 }
