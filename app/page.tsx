@@ -124,7 +124,7 @@ export default function Home() {
        <div className={styles.center}>
 {/* <p className={styles.tip}> */}
 <p>
- <a style={{ color: "#FF0000" }}>预计下午三点前恢复  </a>
+ <a style={{ color: "#FF0000" }}>预计下午五点前恢复  </a>
   下方有注意事项
   </p>
   </div>
