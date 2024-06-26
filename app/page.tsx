@@ -99,7 +99,20 @@ export default function Home() {
         url: "https://neu17.learnwithgpt.space/",
         description: " Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
-      
+              title: "午夜时刻",
+        url: "https://neu18.learnwithgpt.space/",
+        description: " Access to GPT-4o\nrate limit :80 messages /3 hours",
+      },
+      {
+        title: "信仰、希望、爱",
+        url: "https://neu19.learnwithgpt.space/",
+        description: " Access to GPT-4o\nrate limit :80 messages /3 hours",
+      },
+      {
+        title: "至上主义",
+        url: "https://neu20.learnwithgpt.space/",
+        description: " Access to GPT-4o\nrate limit :80 messages /3 hours",
+      },
     ];
 
     shuffleArray(cardData);
