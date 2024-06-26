@@ -94,6 +94,12 @@ export default function Home() {
         url: "https://neu16.learnwithgpt.space/",
         description: " Access to GPT-3.5",
       },
+      {
+        title: "与……对话",
+        url: "https://neu17.learnwithgpt.space/",
+        description: " Access to GPT-4o\nrate limit :80 messages /3 hours",
+      },
+      
     ];
 
     shuffleArray(cardData);
