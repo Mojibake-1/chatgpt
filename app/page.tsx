@@ -59,11 +59,11 @@ export default function Home() {
         url: "https://neu9.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
-      // {
-      //   title: "66号公路",
-      //   url: "https://neu10.learnwithgpt.space/",
-      //   description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
-      // },
+      {
+        title: "66号公路",
+        url: "https://neu10.learnwithgpt.space/",
+        description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
+      },
       {
         title: "走向天空的人",
         url: "https://neu11.learnwithgpt.space/",
