@@ -64,55 +64,7 @@ export default function Home() {
         url: "https://neu10.learnwithgpt.space/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
-      {
-        title: "走向天空的人",
-        url: "https://neu11.learnwithgpt.space/",
-        description: "Access to GPT-3.5",
-      },
-      {
-        title: "轨道反射器",
-        url: "https://neu12.learnwithgpt.space/",
-        description: " Access to GPT-3.5",
-      },
-      {
-        title: "洞穴之喻",
-        url: "https://neu13.learnwithgpt.space/",
-        description: " Access to GPT-3.5",
-      },
-      {
-        title: "时钟总是错的",
-        url: "https://neu14.learnwithgpt.space/",
-        description: " Access to GPT-3.5",
-      },
-      {
-        title: "二分之一个月亮",
-        url: "https://neu15.learnwithgpt.space/",
-        description: " Access to GPT-3.5",
-      },
-      {
-        title: "关于无的无所有",
-        url: "https://neu16.learnwithgpt.space/",
-        description: " Access to GPT-3.5",
-      },
-      {
-        title: "与……对话",
-        url: "https://neu17.learnwithgpt.space/",
-        description: " Access to GPT-4o\nrate limit :80 messages /3 hours",
-      },
-      {      title: "午夜时刻",
-        url: "https://neu18.learnwithgpt.space/",
-        description: " Access to GPT-4o\nrate limit :80 messages /3 hours",
-      },
-      {
-        title: "行走的花",
-        url: "https://neu19.learnwithgpt.space/",
-        description: " Access to GPT-4o\nrate limit :80 messages /3 hours",
-      },
-      {
-        title: "至上主义",
-        url: "https://neu20.learnwithgpt.space/",
-        description: " Access to GPT-4o\nrate limit :80 messages /3 hours",
-      },
+  
     ];
 
     shuffleArray(cardData);
