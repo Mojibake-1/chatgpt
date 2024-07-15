@@ -128,7 +128,14 @@ export default function Home() {
           <code className={styles.code}>ChatGPT</code>
         </p>
         <div></div>
-        <a style={{ color: "#808080" }}>Supported by DAO  </a>
+          <a
+          href="https://claude.learnwithgpt.space"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ color: "#d19b75", textDecoration: "none" }}
+        >
+          尝试Claude
+        </a>
       </div>
 
       <div className={styles.center}>
