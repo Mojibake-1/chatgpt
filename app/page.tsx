@@ -134,7 +134,7 @@ export default function Home() {
           rel="noopener noreferrer"
           style={{ color: "#d19b75", textDecoration: "none" }}
         >
-          尝试Claude
+          体验Claude
         </a>
       </div>
 
