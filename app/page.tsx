@@ -114,6 +114,11 @@ export default function Home() {
         url: "https://neu20.learnwithgpt.space/",
         description: " Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
+        {
+        title: "巴别塔",
+        url: "https://neu21.learnwithgpt.space/",
+        description: " Access to GPT-4o\nrate limit :160 messages /3 hours",
+      },
     ];
 
     shuffleArray(cardData);
