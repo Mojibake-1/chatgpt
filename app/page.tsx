@@ -117,7 +117,7 @@ export default function Home() {
         {
         title: "巴别塔",
         url: "https://neu21.learnwithgpt.space/",
-        description: " Access to GPT-4o\nrate limit :160 messages /3 hours",
+        description: " Access to GPT-4o mini",
       },
     ];
 
