@@ -156,8 +156,8 @@ export default function Home() {
        <div className={styles.center}>
 {/* <p className={styles.tip}> */}
 <p>
-{/*  <a style={{ color: "#FF0000" }}>各账号正在逐步恢复 </a> */}
-  下方有注意事项
+ <a style={{ color: "#FF0000" }}>近期openai风控严重，目前只有部分账号可用，正在恢复 </a>
+{/*   下方有注意事项 */}
   </p>
   </div>
       <div className={styles.grid}>
