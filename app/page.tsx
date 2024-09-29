@@ -15,12 +15,12 @@ export default function Home() {
     };
     const cardData = [
       {
-        title: "内外空间关系研究",
+        title: "内外空间关系研究(X)",
         url: "https://neu1.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "星际自由移动",
+        title: "星际自由移动(X)",
         url: "https://neu2.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :  80 messages /3 hours",
       },
@@ -30,17 +30,17 @@ export default function Home() {
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "万象",
+        title: "万象(X)",
         url: "https://neu4.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "太阳流水线",
+        title: "太阳流水线(X)",
         url: "https://neu5.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "电影宇宙",
+        title: "电影宇宙(X)",
         url: "https://neu6.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
@@ -50,7 +50,7 @@ export default function Home() {
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "远程反射疗法",
+        title: "远程反射疗法(X)",
         url: "https://neu8.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
@@ -100,12 +100,12 @@ export default function Home() {
         description: " Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "午夜时刻",
+        title: "午夜时刻(X)",
         url: "https://neu18.342707641.xyz/",
         description: " Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
            {
-        title: "行走的花",
+        title: "行走的花(X)",
         url: "https://neu19.342707641.xyz/",
         description: " Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
