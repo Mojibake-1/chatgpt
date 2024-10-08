@@ -35,12 +35,12 @@ export default function Home() {
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "太阳流水线(X)",
+        title: "太阳流水线",
         url: "https://neu5.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "电影宇宙(X)",
+        title: "电影宇宙",
         url: "https://neu6.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
