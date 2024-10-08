@@ -15,12 +15,12 @@ export default function Home() {
     };
     const cardData = [
       {
-        title: "内外空间关系研究(X)",
+        title: "内外空间关系研究",
         url: "https://neu1.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "星际自由移动(X)",
+        title: "星际自由移动",
         url: "https://neu2.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :  80 messages /3 hours",
       },
@@ -156,8 +156,8 @@ export default function Home() {
        <div className={styles.center}>
 {/* <p className={styles.tip}> */}
 <p>
- <a style={{ color: "#FF0000" }}>明天恢复 </a>
-{/*   下方有注意事项 */}
+{/*  <a style={{ color: "#FF0000" }}>明天恢复 </a> */}
+  下方有注意事项
   </p>
   </div>
       <div className={styles.grid}>
