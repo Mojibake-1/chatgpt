@@ -157,7 +157,7 @@ export default function Home() {
 {/* <p className={styles.tip}> */}
 <p>
 {/*  <a style={{ color: "#FF0000" }}>明天恢复 </a> */}
-  下方有注意事项
+  加入ChatGPT 4o with canvas模型
   </p>
   </div>
       <div className={styles.grid}>
