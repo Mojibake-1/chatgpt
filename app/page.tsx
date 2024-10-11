@@ -50,7 +50,7 @@ export default function Home() {
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "远程反射疗法(X)",
+        title: "远程反射疗法",
         url: "https://neu8.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
