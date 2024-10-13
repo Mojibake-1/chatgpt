@@ -100,12 +100,12 @@ export default function Home() {
         description: " Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "午夜时刻(X)",
+        title: "午夜时刻",
         url: "https://neu18.342707641.xyz/",
         description: " Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
            {
-        title: "行走的花(X)",
+        title: "行走的花",
         url: "https://neu19.342707641.xyz/",
         description: " Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
