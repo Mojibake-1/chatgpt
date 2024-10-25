@@ -15,52 +15,52 @@ export default function Home() {
     };
     const cardData = [
       {
-        title: "内外空间关系研究",
+        title: "内外空间关系研究(x)",
         url: "https://neu1.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "星际自由移动",
+        title: "星际自由移动(x)",
         url: "https://neu2.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :  80 messages /3 hours",
       },
       {
-        title: "偏蚀",
+        title: "偏蚀(x)",
         url: "https://neu3.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "万象(x",
+        title: "万象(x)",
         url: "https://neu4.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "太阳流水线(x",
+        title: "太阳流水线(x)",
         url: "https://neu5.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "电影宇宙",
+        title: "电影宇宙(x)",
         url: "https://neu6.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "多样的未来主义",
+        title: "多样的未来主义(x)",
         url: "https://neu7.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "远程反射疗法",
+        title: "远程反射疗法(x)",
         url: "https://neu8.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "时空之间",
+        title: "时空之间(x)",
         url: "https://neu9.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "66号公路",
+        title: "66号公路(x)",
         url: "https://neu10.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
