@@ -114,11 +114,11 @@ export default function Home() {
         url: "https://neu20.342707641.xyz/",
         description: " Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
-        {
-        title: "巴别塔",
-        url: "https://neu21.342707641.xyz/",
-        description: " Access to GPT-4o mini",
-      },
+      //   {
+      //   title: "巴别塔",
+      //   url: "https://neu21.342707641.xyz/",
+      //   description: " Access to GPT-4o mini",
+      // },
            {
         title: "a",
         url: "https://plus.aivvm.com/auth/login_share?token=fk-ohYtptgfDmYvgAWe87lmG4RjuLnGl8RGaIqyNSBVkVU",
@@ -159,6 +159,17 @@ export default function Home() {
         url: "https://plus.aivvm.com/auth/login_share?token=fk-M5DNpXzabg9IucLJOPDBq2_IwXoEI9dSG35EEiU71ts",
         description: " Access to GPT-4o\nrate limit :80 messages /3 hours（无对话历史记录",
       },
+         {
+        title: "i",
+        url: "https://plus.aivvm.com/auth/login_share?token=fk-LOljQkB4_snkRsFy_aPg1TLcgBhOq3Rbl-hG3w98-t4",
+        description: " Access to GPT-4o\nrate limit :80 messages /3 hours（无对话历史记录",
+      },
+         {
+        title: "j",
+        url: "https://plus.aivvm.com/auth/login_share?token=fk-_agXB8e-5VeGCjBy03icL-Fvu45aVpv2IhMhYOpTNHU",
+        description: " Access to GPT-4o\nrate limit :80 messages /3 hours（无对话历史记录",
+      },
+      
     ];
 
     shuffleArray(cardData);
