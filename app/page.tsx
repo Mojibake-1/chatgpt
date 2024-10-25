@@ -156,7 +156,7 @@ export default function Home() {
        <div className={styles.center}>
 {/* <p className={styles.tip}> */}
 <p>
-{/*  <a style={{ color: "#FF0000" }}>出了一些问题,暂时不可用 </a> */}
+ <a style={{ color: "#FF0000" }}>OpenAI风控严重，11月初恢复 </a>
   加入ChatGPT 4o with canvas模型
   </p>
   </div>
