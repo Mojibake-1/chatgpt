@@ -190,9 +190,9 @@ export default function Home() {
           rel="noopener noreferrer"
           style={{ color: "#d19b75", textDecoration: "none" }}
         >
-          体验Claude */}
-        <a style={{ color: "#808080" }}>Supported by DAO  </a>
-        </a>
+          体验Claude
+        </a> */}
+       <a style={{ color: "#808080" }}>Supported by DAO  </a>
       </div>
 
       <div className={styles.center}>
