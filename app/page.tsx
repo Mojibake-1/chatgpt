@@ -184,14 +184,14 @@ export default function Home() {
           <code className={styles.code}>ChatGPT</code>
         </p>
         <div></div>
-          <a
+{/*           <a
           href="https://claude.learnwithgpt.space"
           target="_blank"
           rel="noopener noreferrer"
           style={{ color: "#d19b75", textDecoration: "none" }}
         >
           体验Claude
-        </a>
+        </a> */}
       </div>
 
       <div className={styles.center}>
@@ -207,7 +207,7 @@ export default function Home() {
        <div className={styles.center}>
 {/* <p className={styles.tip}> */}
 <p>
- <a style={{ color: "#FF0000" }}>OpenAI风控严重，11月初恢复 </a>
+{/*  <a style={{ color: "#FF0000" }}>OpenAI风控严重，11月初恢复 </a> */}
   </p>
   </div>
       <div className={styles.grid}>
