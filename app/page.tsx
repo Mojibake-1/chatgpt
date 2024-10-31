@@ -60,7 +60,7 @@ export default function Home() {
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "66号公路(x)",
+        title: "66号公路",
         url: "https://neu10.342707641.xyz/",
         description: "Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
