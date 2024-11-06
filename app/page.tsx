@@ -208,7 +208,7 @@ export default function Home() {
        <div className={styles.center}>
 {/* <p className={styles.tip}> */}
 <p>
- <a style={{ color: "#808080" }}>任一chatgpt账号无法使用请立即联系qq342707641 </a>
+ <a style={{ color: "#808080" }}>如有任一chatgpt账号无法使用,麻烦联系qq342707641 </a>
   </p>
   </div>
       <div className={styles.grid}>
