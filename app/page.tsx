@@ -209,7 +209,7 @@ export default function Home() {
 {/* <p className={styles.tip}> */}
 <p>
 {/*  <a style={{ color: "#808080" }}>如有任一chatgpt账号无法使用,麻烦联系qq342707641 </a> */}
-  <a href="https://linux.do/t/topic/253360" target="_blank" rel="noopener noreferrer">
+  <a href="https://share.cleanshot.com/RdcszsV2" target="_blank" rel="noopener noreferrer">
         近期 chatgpt 账号普遍被降智，解决办法点击这里
       </a>
   </p>
