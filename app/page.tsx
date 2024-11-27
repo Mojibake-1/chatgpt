@@ -192,7 +192,7 @@ export default function Home() {
 
       <div>
         <p className={styles.tip}>
-           <a >天下没有不散的宴席，ChatGPT再见👋 </a>
+           <a >claude无法回答，先试试刷新网页，其他问题联系qq：342707641。月初更新Claude Pro </a>
            <p className={styles.spacer}></p>
         </p>
       </div>
