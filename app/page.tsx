@@ -122,22 +122,22 @@ export default function Home() {
       //      {
         title: "仁",
         url: "https://fuclaudeshare.neugpt.workers.dev",
-        description: " Access to claude-sonnet",
+        description: " Basic Account, access to claude-sonnet",
       },     
       {
         title: "义",
         url: "https://fuclaudeshare.neugpt.workers.dev",
-        description: " Access to claude-sonnet",
+        description: " Basic Account, access to claude-sonnet",
       },
        {
         title: "礼",
         url: "https://fuclaudeshare.neugpt.workers.dev",
-        description: " Access to claude-haiku",
+        description: " Basic Account, access to claude-haiku",
       },
        {
         title: "智",
         url: "https://fuclaudeshare.neugpt.workers.dev",
-        description: " Access to claude-haiku",
+        description: " Basic Account, access to claude-haiku",
       },
       //  {
       //   title: "e",
@@ -208,7 +208,7 @@ export default function Home() {
        <div className={styles.center}>
 {/* <p className={styles.tip}> */}
 <p>
- <a style={color: "#808080"}>因不可抗力，网站未来可能不得不转向claude共享账号 </a>
+ <a style={color: "#808080"}>因不可抗力，网站未来不得不转向claude共享账号 </a>
   </p>
   </div>
       <div className={styles.grid}>
