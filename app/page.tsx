@@ -139,7 +139,16 @@ export default function Home() {
         url: "https://34.learnwithgpt.space",
         description: " Basic Account, access to claude-haiku",
       },
-      
+          {
+        title: "信",
+        url: "https://35.learnwithgpt.space",
+        description: " Basic Account, access to claude-haiku",
+      },
+       {
+        title: "忠",
+        url: "https://36.learnwithgpt.space",
+        description: " Basic Account, access to claude-haiku",
+      },
     ];
 
     shuffleArray(cardData);
