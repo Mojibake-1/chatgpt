@@ -121,22 +121,22 @@ export default function Home() {
       // },
       //      {
         title: "仁",
-        url: "https://fuclaudeshare.neugpt.workers.dev",
+        url: "https://31.learnwithgpt.space",
         description: " Basic Account, access to claude-sonnet",
       },     
       {
         title: "义",
-        url: "https://fuclaudeshare.neugpt.workers.dev",
+        url: "https://32.learnwithgpt.space",
         description: " Basic Account, access to claude-sonnet",
       },
        {
         title: "礼",
-        url: "https://fuclaudeshare.neugpt.workers.dev",
+        url: "https://33.learnwithgpt.space",
         description: " Basic Account, access to claude-haiku",
       },
        {
         title: "智",
-        url: "https://fuclaudeshare.neugpt.workers.dev",
+        url: "https://34.learnwithgpt.space",
         description: " Basic Account, access to claude-haiku",
       },
       //  {
