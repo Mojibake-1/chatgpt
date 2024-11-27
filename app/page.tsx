@@ -192,7 +192,7 @@ export default function Home() {
 
       <div>
         <p className={styles.tip}>
-           <a >天下没有不散的宴席 </a>
+           <a >天下没有不散的宴席，ChatGPT再见👋 </a>
            <p className={styles.spacer}></p>
         </p>
       </div>
