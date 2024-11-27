@@ -139,36 +139,6 @@ export default function Home() {
         url: "https://34.learnwithgpt.space",
         description: " Basic Account, access to claude-haiku",
       },
-      //  {
-      //   title: "e",
-      //   url: "https://plus.aivvm.com/auth/login_share?token=fk-_gka-hmFHq1rIdLqUpmXqSpckvO3lGhkB1ljD1jct-8",
-      //   description: " Access to GPT-4o\nrate limit :80 messages /3 hours（无对话历史记录",
-      // },
-      //  {
-      //   title: "f",
-      //   url: "https://plus.aivvm.com/auth/login_share?token=fk-Anwc7XwquvMLn1YYuxx0lE835b_28kWYUljiZS6GCik",
-      //   description: " Access to GPT-4o\nrate limit :80 messages /3 hours（无对话历史记录",
-      // },
-      //   {
-      //   title: "g",
-      //   url: "https://plus.aivvm.com/auth/login_share?token=fk-gLx0zrVofaphvr3IKLa1OPDfvauQ0JJGQZii_wZOkRE",
-      //   description: " Access to GPT-4o\nrate limit :80 messages /3 hours（无对话历史记录",
-      // },
-      //   {
-      //   title: "h",
-      //   url: "https://plus.aivvm.com/auth/login_share?token=fk-M5DNpXzabg9IucLJOPDBq2_IwXoEI9dSG35EEiU71ts",
-      //   description: " Access to GPT-4o\nrate limit :80 messages /3 hours（无对话历史记录",
-      // },
-      //    {
-      //   title: "i",
-      //   url: "https://plus.aivvm.com/auth/login_share?token=fk-LOljQkB4_snkRsFy_aPg1TLcgBhOq3Rbl-hG3w98-t4",
-      //   description: " Access to GPT-4o\nrate limit :80 messages /3 hours（无对话历史记录",
-      // },
-      //    {
-      //   title: "j",
-      //   url: "https://plus.aivvm.com/auth/login_share?token=fk-_agXB8e-5VeGCjBy03icL-Fvu45aVpv2IhMhYOpTNHU",
-      //   description: " Access to GPT-4o\nrate limit :80 messages /3 hours（无对话历史记录",
-      // },
       
     ];
 
@@ -208,7 +178,7 @@ export default function Home() {
        <div className={styles.center}>
 {/* <p className={styles.tip}> */}
 <p>
- <a >因不可抗力，网站未来不得不转向claude共享账号 </a>
+ <a >因不可抗力，未来不得不转向claude共享账号 </a>
   </p>
   </div>
       <div className={styles.grid}>
@@ -222,7 +192,7 @@ export default function Home() {
 
       <div>
         <p className={styles.tip}>
-          
+           <a >天下没有不散的宴席 </a>
            <p className={styles.spacer}></p>
         </p>
       </div>
