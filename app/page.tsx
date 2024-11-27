@@ -187,7 +187,7 @@ export default function Home() {
        <div className={styles.center}>
 {/* <p className={styles.tip}> */}
 <p>
- <a >因不可抗力，目前仅可用claude账号， </a>
+ <a >因不可抗力，目前仅可用claude账号，chatgpt不确定什么时候能恢复 </a>
   </p>
   </div>
       <div className={styles.grid}>
