@@ -208,10 +208,7 @@ export default function Home() {
        <div className={styles.center}>
 {/* <p className={styles.tip}> */}
 <p>
-{/*  <a style={{ color: "#808080" }}>如有任一chatgpt账号无法使用,麻烦联系qq342707641 </a> */}
-  <a href="https://share.cleanshot.com/RdcszsV2" target="_blank" rel="noopener noreferrer">
-        近期 chatgpt 账号普遍被降智，解决办法点击这里
-      </a>
+ <a style={{ color: "#808080" }}>因不可抗力，网站未来转向claude共享账号 </a>
   </p>
   </div>
       <div className={styles.grid}>
@@ -225,7 +222,7 @@ export default function Home() {
 
       <div>
         <p className={styles.tip}>
-          tips：显示未找到share_token，可以尝试刷新页面重进或更换国内网络；进入页面后加载不出来，是之前用的次数太多导致被封，尽量使用空闲的账号；如果某个账号无法使用，可以换一个用；对话内容可能会受到审查，请不要问不文明的问题，谢谢
+          
            <p className={styles.spacer}></p>
         </p>
       </div>
