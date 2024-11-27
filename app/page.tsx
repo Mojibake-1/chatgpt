@@ -181,7 +181,7 @@ export default function Home() {
       <div className={styles.description}>
         <p>
           Get started with&nbsp;
-          <code className={styles.code}>ChatGPT</code>
+          <code className={styles.code}>Claude</code>
         </p>
         <div></div>
 {/*           <a
