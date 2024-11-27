@@ -201,7 +201,7 @@ export default function Home() {
 
       <div>
         <p className={styles.tip}>
-           <a >claude无法回答，先试试刷新网页，其他问题联系qq：342707641。 </a>
+           <a >tip：Claude没有联网功能；若claude无法回答，先试试刷新网页。如果强烈需要使用chatgpt联系：342707641。 </a>
            <p className={styles.spacer}></p>
         </p>
       </div>
