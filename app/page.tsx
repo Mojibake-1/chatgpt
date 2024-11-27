@@ -120,22 +120,22 @@ export default function Home() {
       //   description: " Access to GPT-4o mini",
       // },
       //      {
-        title: "c1",
+        title: "仁",
         url: "https://fuclaudeshare.neugpt.workers.dev",
         description: " Access to claude-sonnet",
       },     
       {
-        title: "c2",
+        title: "义",
         url: "https://fuclaudeshare.neugpt.workers.dev",
         description: " Access to claude-sonnet",
       },
        {
-        title: "c3",
+        title: "礼",
         url: "https://fuclaudeshare.neugpt.workers.dev",
         description: " Access to claude-haiku",
       },
        {
-        title: "c4",
+        title: "智",
         url: "https://fuclaudeshare.neugpt.workers.dev",
         description: " Access to claude-haiku",
       },
