@@ -187,7 +187,7 @@ export default function Home() {
        <div className={styles.center}>
 {/* <p className={styles.tip}> */}
 <p>
- <a >因不可抗力，未来不得不转向claude共享账号 </a>
+ <a >因不可抗力，目前仅提供claude共享账号 </a>
   </p>
   </div>
       <div className={styles.grid}>
