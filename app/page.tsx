@@ -187,7 +187,7 @@ export default function Home() {
        <div className={styles.center}>
 {/* <p className={styles.tip}> */}
 <p>
- <a >因不可抗力，目前仅可用claude账号 </a>
+ <a >因不可抗力，目前仅可用claude账号， </a>
   </p>
   </div>
       <div className={styles.grid}>
@@ -201,7 +201,7 @@ export default function Home() {
 
       <div>
         <p className={styles.tip}>
-           <a >claude无法回答，先试试刷新网页，其他问题联系qq：342707641。月初更新Claude Pro </a>
+           <a >claude无法回答，先试试刷新网页，其他问题联系qq：342707641。 </a>
            <p className={styles.spacer}></p>
         </p>
       </div>
