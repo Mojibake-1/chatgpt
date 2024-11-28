@@ -120,7 +120,7 @@ export default function Home() {
       //   description: " Access to GPT-4o mini",
       // },
       //      {
-        title: "仁（x）",
+        title: "仁",
         url: "https://31.learnwithgpt.space",
         description: " Basic Plan, access to claude-sonnet",
       },     
