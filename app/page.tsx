@@ -211,7 +211,7 @@ export default function Home() {
 
       <div>
         <p className={styles.tip}>
-           <a >tip：Claude没有联网功能；若claude无法回答，先试试刷新网页。如果强烈需要使用chatgpt联系：342707641。 </a>
+           <a >tip：Claude没有联网功能；sonnet模型强于haiku；由于服务不太稳定，当claude报错无法回答，请尝试刷新网页。如果强烈需要使用chatgpt联系：342707641。 </a>
            <p className={styles.spacer}></p>
         </p>
       </div>
