@@ -161,25 +161,6 @@ export default function Home() {
       },
     ];
 
-    export default function Home() {
-  return (
-    <div>
-      {cardData.map((card, index) => (
-        <div key={index}>
-          <h2>{card.title}</h2>
-          <a href={card.url} target="_blank" rel="noopener noreferrer">
-            {card.url}
-          </a>
-          <p>
-            <strong>Professional Plan</strong>
-            <br />
-            <strong>sonnet</strong>
-          </p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
     
     shuffleArray(cardData);
