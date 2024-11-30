@@ -199,7 +199,10 @@ export default function Home() {
        <div className={styles.center}>
 {/* <p className={styles.tip}> */}
 <p>
- <a >chatgpt已有临时替代方案，即将更新 </a>
+<span >chatgpt已有临时替代方案，</span>
+  <a href="https://mojibake.notion.site/ChatGPT-14e6f791932d806d8b2bd7553a9de117?pvs=4" style="color: blue; font-weight: bold; text-decoration: underline;">
+    点击这里
+  </a>
   </p>
   </div>
       <div className={styles.grid}>
