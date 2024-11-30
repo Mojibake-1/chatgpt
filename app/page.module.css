@@ -6,6 +6,16 @@
   padding: 6rem;
   min-height: 100vh;
 }
+.link {
+  color: blue;
+  font-weight: bold;
+  text-decoration: underline;
+  cursor: pointer; /* 可选：增加鼠标指针 */
+}
+
+.link:hover {
+  color: darkblue;
+}
 .tip {
   font-size: 12px;
   color: #888; /* 可以根据需要调整颜色 */
