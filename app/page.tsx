@@ -219,8 +219,18 @@ chatgpt已有临时替代方案，
 
       <div>
         <p className={styles.tip}>
-          {/*  <a > </a> */}
-           <a style={{ color: "#FF0000" }}>必看：1、需使用浏览器无痕模式访问网站。2、首次提问claude会报错，刷新网页后再创建新会话后恢复正常；3、sonnet模型优于haiku；4、Professional Plan付费账号对话次数较多；5、需要使用chatgpt联系qq：342707641。</a>
+          
+           <a style={{ color: "#FF0000" }}>必看：
+            <br />
+            1、需使用浏览器无痕模式访问网站。
+            <br />
+            2、首次提问claude会报错，刷新网页后再创建新会话后恢复正常；
+            <br />
+            3、sonnet模型优于haiku；
+            <br />
+            4、Professional Plan付费账号对话次数较多；
+            <br />
+            5、需要使用chatgpt联系qq：342707641。</a>
           <p className={styles.spacer}></p>
         </p>
       </div>
