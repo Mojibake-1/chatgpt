@@ -201,7 +201,7 @@ export default function Home() {
 <p>
 chatgpt已有临时替代方案，
           <a
-            href="https://mojibake.notion.site/ChatGPT-14e6f791932d806d8b2bd7553a9de117?pvs=4"
+            href="https://mojibake.super.site/"
             className={styles.link}
           >
             点击这里
