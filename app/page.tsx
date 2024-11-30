@@ -199,7 +199,7 @@ export default function Home() {
        <div className={styles.center}>
 {/* <p className={styles.tip}> */}
 <p>
-chatgpt已有临时替代方案，
+免梯使用ChatGPT的替代方案，
           <a
             href="https://mojibake.super.site/"
             className={styles.link}
