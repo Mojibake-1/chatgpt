@@ -229,8 +229,7 @@ export default function Home() {
             3、sonnet模型优于haiku；
             <br />
             4、Professional Plan付费账号对话次数较多；
-            <br />
-            5、需要使用chatgpt联系qq：342707641。</a>
+            </a>
           <p className={styles.spacer}></p>
         </p>
       </div>
