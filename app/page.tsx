@@ -149,11 +149,11 @@ export default function Home() {
         url: "https://36.learnwithgpt.space",
         description: " Basic Plan, access to claude-haiku",
       },
-                {
-        title: "勇",
-        url: "https://37.learnwithgpt.space",
-        description: " Professional Plan, access to claude-sonnet",
-      },
+      //           {
+      //   title: "勇",
+      //   url: "https://37.learnwithgpt.space",
+      //   description: " Professional Plan, access to claude-sonnet",
+      // },
        {
         title: "恕",
         url: "https://38.learnwithgpt.space",
