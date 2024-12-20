@@ -199,7 +199,7 @@ export default function Home() {
        <div className={styles.center}>
 {/* <p className={styles.tip}> */}
 <p>
-使用之前的ChatGPT服务,
+使用ChatGPT(12.20修复，账号无法使用请联系我，qq342707641）
           <a
             href="https://mojibake.super.site/"
             className={styles.link}
