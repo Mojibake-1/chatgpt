@@ -132,22 +132,22 @@ export default function Home() {
        {
         title: "礼",
         url: "https://33.learnwithgpt.space",
-        description: " Basic Plan, access to claude-haiku",
+        description: " Basic Plan, access to claude-sonnet",
       },
        {
         title: "智",
         url: "https://34.learnwithgpt.space",
-        description: " Basic Plan, access to claude-haiku",
+        description: " Basic Plan, access to claude-sonnet",
       },
           {
         title: "信",
         url: "https://35.learnwithgpt.space",
-        description: " Basic Plan, access to claude-haiku",
+        description: " Basic Plan, access to claude-sonnet",
       },
        {
         title: "忠",
         url: "https://36.learnwithgpt.space",
-        description: " Basic Plan, access to claude-haiku",
+        description: " Basic Plan, access to claude-sonnet",
       },
       //           {
       //   title: "勇",
@@ -224,11 +224,7 @@ export default function Home() {
             <br />
             1、需使用浏览器无痕模式访问网站。
             <br />
-            2、首次提问claude会报错，刷新网页后再创建新会话后恢复正常；
-            <br />
-            3、sonnet模型优于haiku；
-            <br />
-            4、Professional Plan付费账号对话次数较多；
+            2、首次提问claude可能会报错，刷新网页后再创建新会话后恢复正常；
             </a>
           <p className={styles.spacer}></p>
         </p>
