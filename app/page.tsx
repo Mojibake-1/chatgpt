@@ -159,6 +159,16 @@ export default function Home() {
         url: "https://38.learnwithgpt.space",
         description: " Claude Pro",
       },
+      {
+        title: "诚",
+        url: "https://39.learnwithgpt.space",
+        description: " Claude Pro",
+      },
+      {
+        title: "慎",
+        url: "https://40.learnwithgpt.space",
+        description: " Claude Pro",
+      },
     ];
 
 
