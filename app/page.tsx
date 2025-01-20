@@ -139,16 +139,16 @@ export default function Home() {
         url: "https://34.learnwithgpt.space",
         description: " Free, access to claude-sonnet",
       },
-      //     {
-      //   title: "信",
-      //   url: "https://35.learnwithgpt.space",
-      //   description: " Free, access to claude-sonnet",
-      // },
-      //  {
-      //   title: "忠",
-      //   url: "https://36.learnwithgpt.space",
-      //   description: " Free, access to claude-sonnet",
-      // },
+          {
+        title: "信",
+        url: "https://35.learnwithgpt.space",
+        description: " Free, access to claude-sonnet",
+      },
+       {
+        title: "忠",
+        url: "https://36.learnwithgpt.space",
+        description: " Free, access to claude-sonnet",
+      },
                 {
         title: "勇",
         url: "https://37.learnwithgpt.space",
@@ -159,16 +159,16 @@ export default function Home() {
         url: "https://38.learnwithgpt.space",
         description: " Claude Pro",
       },
-      {
-        title: "诚",
-        url: "https://39.learnwithgpt.space",
-        description: " Claude Pro",
-      },
-      {
-        title: "慎",
-        url: "https://40.learnwithgpt.space",
-        description: " Claude Pro",
-      },
+      // {
+      //   title: "诚",
+      //   url: "https://39.learnwithgpt.space",
+      //   description: " Claude Pro",
+      // },
+      // {
+      //   title: "慎",
+      //   url: "https://40.learnwithgpt.space",
+      //   description: " Claude Pro",
+      // },
     ];
 
 
