@@ -211,7 +211,7 @@ export default function Home() {
 <p>
 新途径使用ChatGPT————
           <a
-            href="https://mojibake.super.site/"
+            href="https://mojibake.notion.site/ChatGPT-14e6f791932d806d8b2bd7553a9de117"
             className={styles.link}
           >
             点击这里
