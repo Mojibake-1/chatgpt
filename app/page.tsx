@@ -149,16 +149,16 @@ export default function Home() {
         url: "https://36.learnwithgpt.space",
         description: " Free, access to claude-sonnet",
       },
-      //           {
-      //   title: "勇",
-      //   url: "https://37.learnwithgpt.space",
-      //   description: " Claude Pro",
-      // },
-      //  {
-      //   title: "恕",
-      //   url: "https://38.learnwithgpt.space",
-      //   description: " Claude Pro",
-      // },
+                {
+        title: "勇",
+        url: "https://37.learnwithgpt.space",
+        description: " Claude Pro",
+      },
+       {
+        title: "恕",
+        url: "https://38.learnwithgpt.space",
+        description: " Claude Pro",
+      },
       // {
       //   title: "诚",
       //   url: "https://39.learnwithgpt.space",
