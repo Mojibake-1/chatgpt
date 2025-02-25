@@ -234,7 +234,7 @@ export default function Home() {
             <br />
             1、需使用浏览器无痕模式访问网站。
             <br />
-            2、首次提问claude可能会报错，刷新网页后再创建新会话后恢复正常；
+            2、首次提问claude必定报错，刷新网页后再创建新会话后可正常交互；
             </a>
           <p className={styles.spacer}></p>
         </p>
