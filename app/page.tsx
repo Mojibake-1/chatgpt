@@ -232,9 +232,9 @@ export default function Home() {
           
            <a style={{ color: "#FF0000" }}>必看：
             <br />
-            1、需使用浏览器无痕模式访问网站。
+            1、需使用浏览器无痕模式访问网站，否则大概率无法加载
             <br />
-            2、首次提问claude必定报错，刷新网页后再创建新会话后可正常交互；
+            2、首次提问claude必定报错，刷新网页后再创建新会话后可正常交互
             </a>
           <p className={styles.spacer}></p>
         </p>
