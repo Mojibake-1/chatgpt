@@ -119,36 +119,36 @@ export default function Home() {
       //   url: "https://neu21.342707641.xyz/",
       //   description: " Access to GPT-4o mini",
       // },
-           {
-        title: "仁",
-        url: "https://31.learnwithgpt.space",
-        description: " Free, access to claude-sonnet",
-      },     
-      {
-        title: "义",
-        url: "https://32.learnwithgpt.space",
-        description: " Free, access to claude-sonnet",
-      },
-       {
-        title: "礼",
-        url: "https://33.learnwithgpt.space",
-        description: " Free, access to claude-sonnet",
-      },
-       {
-        title: "智",
-        url: "https://34.learnwithgpt.space",
-        description: " Free, access to claude-sonnet",
-      },
-          {
-        title: "信",
-        url: "https://35.learnwithgpt.space",
-        description: " Free, access to claude-sonnet",
-      },
-       {
-        title: "忠",
-        url: "https://36.learnwithgpt.space",
-        description: " Free, access to claude-sonnet",
-      },
+      //      {
+      //   title: "仁",
+      //   url: "https://31.learnwithgpt.space",
+      //   description: " Free, access to claude-sonnet",
+      // },     
+      // {
+      //   title: "义",
+      //   url: "https://32.learnwithgpt.space",
+      //   description: " Free, access to claude-sonnet",
+      // },
+      //  {
+      //   title: "礼",
+      //   url: "https://33.learnwithgpt.space",
+      //   description: " Free, access to claude-sonnet",
+      // },
+      //  {
+      //   title: "智",
+      //   url: "https://34.learnwithgpt.space",
+      //   description: " Free, access to claude-sonnet",
+      // },
+      //     {
+      //   title: "信",
+      //   url: "https://35.learnwithgpt.space",
+      //   description: " Free, access to claude-sonnet",
+      // },
+      //  {
+      //   title: "忠",
+      //   url: "https://36.learnwithgpt.space",
+      //   description: " Free, access to claude-sonnet",
+      // },
                 {
         title: "勇",
         url: "https://37.learnwithgpt.space",
